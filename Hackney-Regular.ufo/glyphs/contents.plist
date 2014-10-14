@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addnew</key>
+	<string>addnew.glif</string>
+	<key>badge</key>
+	<string>badge.glif</string>
+	<key>philips</key>
+	<string>philips.glif</string>
+	<key>settings</key>
+	<string>settings.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
+	<key>time</key>
+	<string>time.glif</string>
+</dict>
+</plist>

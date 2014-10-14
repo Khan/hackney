@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>790</integer>
+	<key>capHeight</key>
+	<integer>667</integer>
+	<key>copyright</key>
+	<string>marcos ojeda 2014</string>
+	<key>descender</key>
+	<integer>-210</integer>
+	<key>familyName</key>
+	<string>Hackney</string>
+	<key>note</key>
+	<string>hackney is a proxima-regula weight-equivalent icon font</string>
+	<key>openTypeNameDescription</key>
+	<string>an icon font whose weight matches text written in Proxima Nova™® - Regular. </string>
+	<key>openTypeNameLicense</key>
+	<string>mit</string>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>3</integer>
+		<integer>9</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>KHAN</string>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>0</integer>
+	<key>versionMinor</key>
+	<integer>5</integer>
+	<key>xHeight</key>
+	<integer>483</integer>
+</dict>
+</plist>

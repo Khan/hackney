@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="badge" format="1">
+  <advance width="1064"/>
+  <unicode hex="F300"/>
+  <outline>
+    <contour>
+      <point x="312" y="-52" type="move"/>
+      <point x="92" y="329" type="line"/>
+      <point x="312" y="710" type="line"/>
+      <point x="752" y="710" type="line"/>
+      <point x="972" y="329" type="line"/>
+      <point x="752" y="-52" type="line"/>
+      <point x="312" y="-52" type="line"/>
+    </contour>
+    <contour>
+      <point x="798" y="790" type="move"/>
+      <point x="266" y="790" type="line"/>
+      <point x="0" y="329" type="line"/>
+      <point x="266" y="-132" type="line"/>
+      <point x="798" y="-132" type="line"/>
+      <point x="1064" y="329" type="line"/>
+      <point x="798" y="790" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>badge</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1064</integer>
+        </dict>
+        <key>etc</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>badge</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1064</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
